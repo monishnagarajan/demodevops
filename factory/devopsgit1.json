@@ -1,0 +1,9 @@
+{
+	"name": "devopsgit1",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1c3acc9-cf49-4437-af3c-51a674ee8a67",
+		"tenantId": "63ec78f5-7551-4f40-b61c-3be3247316e3"
+	}
+}
